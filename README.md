@@ -7,29 +7,29 @@ The project is divided into multiple notebooks, each focusing on a stage of the 
 
 ## Data Collection
 
-data_collection_api.ipynb → Collected data from SpaceX API.
+data_collection_api.ipynb - Collected data from SpaceX API.
 
-data_collection_webscraping.ipynb → Scraped launch records from Wikipedia.
+data_collection_webscraping.ipynb - Scraped launch records from Wikipedia.
 
 ## Data Wrangling
 
-data_wrangling.ipynb → Cleaned and transformed datasets for analysis.
+data_wrangling.ipynb - Cleaned and transformed datasets for analysis.
 
 ## Exploratory Data Analysis
 
-eda_sql.ipynb → Queried the dataset using SQL for insights.
+eda_sql.ipynb - Queried the dataset using SQL for insights.
 
-eda_visualizations.ipynb → Created visualizations (scatter plots, bar charts, heatmaps) to explore correlations and landing outcomes.
+eda_visualizations.ipynb - Created visualizations to explore correlations and landing outcomes.
 
 ## Interactive Visualizations
 
-interactive_folium.ipynb → Built maps to visualize launch sites and trajectories.
+interactive_folium.ipynb - Built maps to visualize launch sites and trajectories.
 
-interactive_plotly_dash.ipynb → Developed an interactive dashboard for deeper analysis.
+interactive_plotly_dash.ipynb - Developed an interactive dashboard for deeper analysis.
 
 ## Machine Learning Prediction
 
-machine_learning_prediction.ipynb → Built and tuned classification models (Logistic Regression, SVM, Decision Trees, KNN) to predict landing success.
+machine_learning_prediction.ipynb - Built and tuned classification models (Logistic Regression, SVM, Decision Trees, KNN) to predict landing success.
 
 
 
