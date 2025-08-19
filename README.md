@@ -47,6 +47,6 @@ machine_learning_prediction.ipynb - Built and tuned classification models (Logis
 
 - Identified factors influencing Falcon 9 first stage landing success.
 
-- Developed predictive models with accuracy up to XX% (update with your best score).
+- Developed predictive models.
 
 - Created an interactive dashboard for stakeholders to explore results.
